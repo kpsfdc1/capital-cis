@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "github new change for poll scm new test commit");
+        System.out.println( "github test commit for webhook");
     }
 }
